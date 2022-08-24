@@ -1,0 +1,51 @@
+{
+  "products-card": [
+      "Неотсортированные",
+      "Получи 15 матер...",
+      "Первая страница",
+      "Всегда с вами",
+      "25 интересных...",
+      "Моя личная страница",
+      "Самые новые"
+  ],
+  "card": [
+    {
+      "id": 1,
+      "id_1": 2,
+      "id_3": 3,
+      "id_4": 4,
+      "my_site": "Моя личная страница",
+      "blogger": "blogger.man",
+      "active": "Активная",
+      "follower": "Подписчики",
+      "number": "250",
+      "ctr": "CTR",
+      "number_2": "20%",
+      "id_text": "id: 15-materials",
+      "ru": "domain: instateleport.ru",
+      "watch": "Просмотров",
+      "number_3": "1 250",
+      "change": "Изменить",
+      "open": "Открыть"
+    },
+    {
+      "id": 2,
+      "id_1": 2,
+      "id_3": 3,
+      "id_4": 4,
+      "my_site": "Моя личная страница",
+      "blogger": "blogger.man",
+      "active": "Активная",
+      "follower": "Подписчики",
+      "number": "250",
+      "ctr": "CTR",
+      "number_2": "20%",
+      "id_text": "id: 15-materials",
+      "ru": "domain: instateleport.ru",
+      "watch": "Просмотров",
+      "number_3": "1 250",
+      "change": "Изменить",
+      "open": "Открыть"
+    }
+  ]
+}
